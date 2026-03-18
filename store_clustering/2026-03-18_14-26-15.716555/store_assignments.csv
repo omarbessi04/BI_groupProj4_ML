@@ -1,0 +1,49 @@
+store_id,storename,city,country,location,cluster
+1,MT Barcelona 1,Barcelona,Spain,Residential,0
+3,MT Barcelona 2,Barcelona,Spain,Commercial,0
+24,MT Bilbao 1,Bilbao,Spain,Downtown,0
+48,MT Braga 2,Braga,Portugal,Commercial,0
+34,MT Brest 1,Brest,France,Downtown,0
+15,MT Burgos 1,Burgos,Spain,Downtown,0
+20,MT Caceres 1,Caceres,Spain,Downtown,0
+11,MT Coimbra 1,Coimbra,Portugal,Downtown,0
+10,MT Dubrovnik 1,Dubrovnik,Croatia,Downtown,0
+26,MT Dubrovnik 2,Dubrovnik,Croatia,Commercial,0
+35,MT Gjirokaster 1,Gjirokaster,Albania,Downtown,0
+27,MT Lecce 1,Lecce,Italy,Downtown,0
+23,MT Leeds 1,Leeds,United Kingdom,Commercial,0
+38,MT Leeds 2,Leeds,United Kingdom,Downtown,0
+43,MT Logrono 1,Logrono,Spain,Downtown,0
+2,MT Milan 1,Milan,Italy,Residential,0
+33,MT Milan 3,Milan,Italy,Airport,0
+32,MT Murcia 1,Murcia,Spain,Residential,0
+6,MT Palermo 1,Palermo,Italy,Commercial,0
+13,MT Palermo 2,Palermo,Italy,Downtown,0
+36,MT Perugia 1,Perugia,Italy,Downtown,0
+29,MT Pisa 1,Pisa,Italy,Commercial,0
+12,MT Rovaniemi 1,Rovaniemi,Finland,Downtown,0
+8,MT Salamanca 1,Salamanca,Spain,Downtown,0
+18,MT Seville 1,Seville,Spain,Downtown,0
+14,MT Siena 1,Siena,Italy,Downtown,0
+22,MT Siena 2,Siena,Italy,Commercial,0
+21,MT Sintra 1,Sintra,Portugal,Downtown,0
+5,MT Split 1,Split,Croatia,Downtown,0
+25,MT Tartu 1,Tartu,Estonia,Downtown,0
+40,MT Turin 2,Turin,Italy,Commercial,0
+19,MT Valencia 1,Valencia,Spain,Commercial,0
+28,MT Valencia 2,Valencia,Spain,Downtown,0
+44,MT Valencia 3,Valencia,Spain,Residential,0
+16,MT Zaragoza 1,Zaragoza,Spain,Downtown,0
+30,MT Barcelona 3,Barcelona,Spain,Airport,1
+46,MT Barcelona 4,Barcelona,Spain,Downtown,1
+4,MT Braga 1,Braga,Portugal,Downtown,1
+9,MT London 1,London,United Kingdom,Downtown,1
+31,MT London 2,London,United Kingdom,Airport,1
+37,MT London 3,London,United Kingdom,Residential,1
+45,MT London 4,London,United Kingdom,Commercial,1
+7,MT Milan 2,Milan,Italy,Downtown,1
+47,MT Milan 4,Milan,Italy,Commercial,1
+41,MT Murcia 2,Murcia,Spain,Downtown,1
+42,MT Murcia 3,Murcia,Spain,Commercial,1
+39,MT Pisa 2,Pisa,Italy,Downtown,1
+17,MT Turin 1,Turin,Italy,Downtown,1

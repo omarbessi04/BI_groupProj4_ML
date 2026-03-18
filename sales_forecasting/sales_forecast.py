@@ -4,9 +4,6 @@ Sales Forecasting - Hópverkefni 4 (Gagnanám)
 Connects to the PostgreSQL data warehouse from Hópverkefni 3 and builds
 a time-series sales forecast using Facebook Prophet.
 
-Requirements (pip install):
-    pip install psycopg2-binary pandas prophet matplotlib
-
 Usage:
     1. Fill in the DB connection details below.
     2. Run:  python sales_forecast.py

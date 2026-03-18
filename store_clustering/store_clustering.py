@@ -4,9 +4,6 @@ Store Clustering - Hópverkefni 4 (Gagnanám)
 Connects to the PostgreSQL data warehouse from Hópverkefni 3 and clusters
 stores based on sales behaviour, basket patterns, product mix, and inventory.
 
-Requirements (pip install):
-    pip install psycopg2-binary pandas scikit-learn matplotlib seaborn
-
 Environment variables:
     DB_NAME, DB_USERNAME, DB_PASSWORD
 

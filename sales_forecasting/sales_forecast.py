@@ -239,7 +239,7 @@ def category_forecast():
     fig.suptitle("Sales Forecast by Product Category", fontsize=15, y=1.01)
     fig.tight_layout()
     fig.savefig(f"{dir_name}/forecast_by_category.png", dpi=150)
-    print(f"[SAVED] forecast_by_category.png")
+    print("[SAVED] forecast_by_category.png")
 
 
 # ============================================================================
